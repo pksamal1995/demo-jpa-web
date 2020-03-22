@@ -9,5 +9,5 @@ INSERT INTO `sakila`.`acount` (`ac_holder_name`) VALUES ('Lam');
 INSERT INTO `sakila`.`acount` (`ac_holder_name`) VALUES ('Jam');
 INSERT INTO `sakila`.`acount` (`ac_holder_name`) VALUES ('Pam');
 
-//edited a little bit.
+
 */
